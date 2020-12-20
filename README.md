@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning: Flutter, React Native and Node.js
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/helenabdias/)
 
-📚 Skills: 
-  -📌 **Backend**: C | Java | Node.js
-  -📌 **Frontend**: React | HTML | CSS | JavaScript
-  -📌 **Mobile**: Flutter 
+- 📚 Skills: 
+  - 📌 **Backend**: C | Java | Node.js
+  - 📌 **Frontend**: React | HTML | CSS | JavaScript
+  - 📌 **Mobile**: Flutter 
 <!--
 **helenabd/helenabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
